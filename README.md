@@ -1,20 +1,62 @@
-<<<<<<< HEAD
-# React + Vite
+# React Contact Form with EmailJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive contact form built using React, Tailwind CSS, and EmailJS API. Users can send messages directly through the form with real-time notifications and auto-reply functionality.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+https://vikaspawar-dev.github.io/react-contact-form-emailjs/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📌 Features
+- Responsive Contact Form
+- Email Sending with EmailJS
+- Auto Reply Email
+- Success & Error Notifications
+- Modern UI Design
+- Built with React & Tailwind CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Technologies Used
+- React.js
+- Tailwind CSS
+- EmailJS API
+- Vite
+- Git & GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# react-contact-form-emailjs
->>>>>>> e70b2058d9592761a5ae100dd5ccefeb8fd977a3
+---
+
+## 📷 Screenshots
+
+### Contact Form UI
+![Project Screenshot](screenshot.png)
+
+### Success Notification
+![Success Notification](screenshot1.png)
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/vikaspawar-dev/react-contact-form-emailjs.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📬 Contact
+Vikas Pawar
