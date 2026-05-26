@@ -29,7 +29,7 @@ https://vikaspawar-dev.github.io/react-contact-form-emailjs/
 ## 📷 Screenshots
 
 ### Contact Form UI
-![Project Screenshot](screenshot1.png)
+![Project Screenshot](screenshot.png)
 
 ### Success Notification
 ![Success Notification](screenshot1.png)
